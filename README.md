@@ -1,10 +1,4 @@
-# Order summary card solution 
-
-<h3 align="center">
-  <strong>
-    <a href="https://arlagonix.github.io/projects/order-summary-component-main/">Open Demo in Github Pages</a>
-  </strong>
-</h3>
+# Order summary card solution
 
 <p align="center">
   <img src="./design/result/screenshot.jpg" width="100%">
