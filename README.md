@@ -1,4 +1,4 @@
-# Order summary card solution
+# Order Summary Card
 
 <p align="center">
   <img src="./design/result/screenshot.jpg" width="100%">
