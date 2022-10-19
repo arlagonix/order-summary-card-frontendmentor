@@ -1,4 +1,7 @@
-# Order Summary Card
+<h1 align="center">Order Summary Card</h1>
+<p align="center">
+  Coded with <code>HTML</code>, <code>SCSS</code>
+</p>
 
 <p align="center">
   <img src="./design/result/screenshot.jpg" width="100%">
