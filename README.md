@@ -1,6 +1,6 @@
 <h1 align="center">Order Summary Card</h1>
 <p align="center">
-  Coded with <code>HTML</code>, <code>SCSS</code>
+  Coded with <code>HTML</code>, <code>CSS</code>
 </p>
 
 <p align="center">
